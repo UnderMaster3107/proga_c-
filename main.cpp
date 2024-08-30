@@ -9,7 +9,7 @@ int main() {
         sum += number;
     }
 
-    std::cout << "Ñóììà ıëåìåíòîâ âåêòîğà: " << sum << std::endl;
+    std::cout << "Ğ¡ÑƒĞ¼Ğ¼Ğ° ÑĞ»ĞµĞ¼ĞµĞ½Ñ‚Ğ¾Ğ² Ğ²ĞµĞºÑ‚Ğ¾Ñ€Ğ°: " << sum << std::endl;
 
     return 0;
 }
